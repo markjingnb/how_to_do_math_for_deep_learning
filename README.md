@@ -1,5 +1,5 @@
 # how_to_do_math_for_deep_learning
-
+反向传播+梯度下降法代码仔细研究。sigmod激活函数
 This is the code for "How to Do Math Easily - Intro to Deep Learning #4' by Siraj Raval on YouTube
 
 ## Overview
